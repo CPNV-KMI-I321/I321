@@ -46,3 +46,7 @@ Ce cours présente les concepts essentiels des systèmes distribués et leur mis
 
 - [Roadmap du module](roadmap.md)
 - [Modalités des évaluations](evaluations.md)
+
+## Crédits
+
+- Contenu du cours repris et adapté du cours de **Julien Iturbide**
