@@ -22,12 +22,12 @@ Ce cours présente les concepts essentiels des systèmes distribués et leur mis
   - [Feedback](laboratoires/configuration-de-lenvironnements-de-travail/feedback.md)
 - Projet Foodtruck
   - [Étape 00 – Squelette de notre API](laboratoires/projet-foodtruck/etape-00-squelette-de-notre-api/README.md)
-    - [Solution](laboratoires/projet-foodtruck/etape-00-squelette-de-notre-api/solution.md)
+    <!-- - [Solution](laboratoires/projet-foodtruck/etape-00-squelette-de-notre-api/solution.md) -->
   - [Étape 01 – Concevoir une ressource](laboratoires/projet-foodtruck/etape-01-concevoir-une-ressource/README.md)
     - [Définir les routes](laboratoires/projet-foodtruck/etape-01-concevoir-une-ressource/definir-les-routes/README.md)
-      - [Solution – Définition des routes](laboratoires/projet-foodtruck/etape-01-concevoir-une-ressource/definir-les-routes/solution-definition-des-routes.md)
+      <!-- - [Solution – Définition des routes](laboratoires/projet-foodtruck/etape-01-concevoir-une-ressource/definir-les-routes/solution-definition-des-routes.md)
     - [Conception du modèle de données](laboratoires/projet-foodtruck/etape-01-concevoir-une-ressource/conception-du-modele-de-donnees/README.md)
-      - [Solution – MCD et MLD](laboratoires/projet-foodtruck/etape-01-concevoir-une-ressource/conception-du-modele-de-donnees/solution-mcd-et-mld.md)
+      <!-- - [Solution – MCD et MLD](laboratoires/projet-foodtruck/etape-01-concevoir-une-ressource/conception-du-modele-de-donnees/solution-mcd-et-mld.md) -->
     - [Une première séquence](laboratoires/projet-foodtruck/etape-01-concevoir-une-ressource/une-premiere-sequence.md)
   - [Étape 02 – Coder une ressource (Pizzas)](laboratoires/projet-foodtruck/etape-02-coder-une-ressource-pizzas/README.md)
     - [Récupérer la base de code à utiliser](laboratoires/projet-foodtruck/etape-02-coder-une-ressource-pizzas/recuperer-la-base-de-code-a-utiliser.md)
@@ -35,11 +35,11 @@ Ce cours présente les concepts essentiels des systèmes distribués et leur mis
     - [Développer la ressource « Pizzas »](laboratoires/projet-foodtruck/etape-02-coder-une-ressource-pizzas/developper-la-ressource-pizzas.md)
   - [Étape 03 – Coder une seconde ressource (Ingrédients)](laboratoires/projet-foodtruck/etape-03-coder-une-seconde-ressource-ingredients/README.md)
     - [Modifier l'arborescence des fichiers](laboratoires/projet-foodtruck/etape-03-coder-une-seconde-ressource-ingredients/modifier-larborescence-des-fichiers-la-structure/README.md)
-      - [Solution](laboratoires/projet-foodtruck/etape-03-coder-une-seconde-ressource-ingredients/modifier-larborescence-des-fichiers-la-structure/solution.md)
+      <!-- - [Solution](laboratoires/projet-foodtruck/etape-03-coder-une-seconde-ressource-ingredients/modifier-larborescence-des-fichiers-la-structure/solution.md) -->
     - [Développer la ressource « Ingrédients »](laboratoires/projet-foodtruck/etape-03-coder-une-seconde-ressource-ingredients/developper-la-ressource-ingredients.md)
   - [Étape 04 – Lier deux ressources (Pizzas et Ingrédients)](laboratoires/projet-foodtruck/etape-04-lier-deux-ressources-pizzas-et-ingredients/README.md)
     - [Modélisation](laboratoires/projet-foodtruck/etape-04-lier-deux-ressources-pizzas-et-ingredients/modelisation/README.md)
-      - [Solution](laboratoires/projet-foodtruck/etape-04-lier-deux-ressources-pizzas-et-ingredients/modelisation/solution.md)
+      <!-- - [Solution](laboratoires/projet-foodtruck/etape-04-lier-deux-ressources-pizzas-et-ingredients/modelisation/solution.md) -->
   - [Étape 05 – Deux microservices indépendants](laboratoires/projet-foodtruck/etape-05-deux-micro-services-independants/README.md)
 
 ## Ressources et Suivi
