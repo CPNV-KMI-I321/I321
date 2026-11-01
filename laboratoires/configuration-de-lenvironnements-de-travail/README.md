@@ -23,9 +23,15 @@ Votre environnement de travail doit disposer des logiciels suivants :
 
 Chaque semaine, vous devez publier dans votre dépôt GitHub le travail réalisé durant la semaine.
 
+> **Attention**
+>
+> Créer votre dépôt à l'intérieur de l'organisation du cours : [Organisation du cours I321](https://github.com/CPNV-KMI-I321)
+>
+> *(L'enseignant vous y invitera en temps que membre)*
+
 Le dépôt doit être nommé `I321-NomPrénom`, sans espace entre le nom et le prénom.
 
-Exemple : `I321-IthurbideJulien`
+Exemple : `I321-ManziniKylian`
 
 L'onglet « wiki » contiendra une page du nom de « configuration de l'environnement de travail ».
 
@@ -37,8 +43,6 @@ git version 2.51.0.windows.2
 ```
 
 ## Partager votre livrable avec l'enseignant
-
-Inviter votre enseignant, avec son adresse e-mail de l'école, à accéder à votre dépôt. Seuls les droits en écriture sont nécessaires ; il n'est pas nécessaire de le rendre administrateur.
 
 Lorsque vous avez terminé et publié le travail de la semaine, prévenez votre enseignant sur Teams.
 
