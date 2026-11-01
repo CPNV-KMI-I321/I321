@@ -25,6 +25,7 @@ Ce cours présente les concepts essentiels des systèmes distribués et leur mis
     <!-- - [Solution](laboratoires/projet-foodtruck/etape-00-squelette-de-notre-api/solution.md) -->
   - [Étape 01 – Concevoir une ressource](laboratoires/projet-foodtruck/etape-01-concevoir-une-ressource/README.md)
     - [Définir les routes](laboratoires/projet-foodtruck/etape-01-concevoir-une-ressource/definir-les-routes/README.md)
+
       <!-- - [Solution – Définition des routes](laboratoires/projet-foodtruck/etape-01-concevoir-une-ressource/definir-les-routes/solution-definition-des-routes.md)
     - [Conception du modèle de données](laboratoires/projet-foodtruck/etape-01-concevoir-une-ressource/conception-du-modele-de-donnees/README.md)
       <!-- - [Solution – MCD et MLD](laboratoires/projet-foodtruck/etape-01-concevoir-une-ressource/conception-du-modele-de-donnees/solution-mcd-et-mld.md) -->
