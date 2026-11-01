@@ -46,6 +46,7 @@ Ce cours présente les concepts essentiels des systèmes distribués et leur mis
 
 - [Roadmap du module](roadmap.md)
 - [Modalités des évaluations](evaluations.md)
+- [Documentation du module](https://www.modulbaukasten.ch/module/321/1/fr-FR?title=Programmer-des-syst%C3%A8mes-distribu%C3%A9s&degree=13d8d40b-6d82-eb11-a812-0022486f6f83)
 
 ## Crédits
 
