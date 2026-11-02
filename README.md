@@ -48,6 +48,15 @@ Ce cours présente les concepts essentiels des systèmes distribués et leur mis
 - [Modalités des évaluations](evaluations.md)
 - [Documentation du module](https://www.modulbaukasten.ch/module/321/1/fr-FR?title=Programmer-des-syst%C3%A8mes-distribu%C3%A9s&degree=13d8d40b-6d82-eb11-a812-0022486f6f83)
 
+## Lectures er Ressources web
+
+- [API Best Practice (MS Azure)](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- [Documentation Express.js](https://expressjs.com/en/5x/starter/hello-world/)
+- [Overview HTTP (Mozilla)](https://developer.mozilla.org/fr/docs/Web/HTTP/Guides/Overview)
+- [Codes HTTP (Mozilla)](https://developer.mozilla.org/fr/docs/Web/HTTP/Reference/Status)
+- [Méthodes HTTP (Mozilla)](https://developer.mozilla.org/fr/docs/Web/HTTP/Reference/Methods)
+
+
 ## Crédits
 
 - Contenu du cours repris et adapté du cours de **Julien Iturbide**
