@@ -16,7 +16,7 @@ description: Le déroulement du module, semaine après semaine, est présenté c
 | **SEM 04** — 23.11.2026 | [Les différentes couches d'une API](theorie-et-concepts/les-base-dune-api/les-differentes-couches-dune-api/README.md) | [Étape 02 – Coder une ressource](laboratoires/projet-foodtruck/etape-02-coder-une-ressource-pizzas/README.md) |
 | **Visite HEIG-VD** — 30.11.2026 | — | — |
 | **SEM 05** — 07.12.2026 | [Un exemple d'API avec Express](theorie-et-concepts/les-base-dune-api/les-differentes-couches-dune-api/un-exemple-dapi-avec-express/README.md) | [Étape 03 – Coder une seconde ressource](laboratoires/projet-foodtruck/etape-03-coder-une-seconde-ressource-ingredients/README.md) |
-| **SEM 06** — 14.12.2026 | Dialogue entre API · Repository, ORM et Entity | Dialogue entre API · Mise en place des repositories |
+| **SEM 06** — 14.12.2026 | *à définir* | *à définir*
 | **SEM 07** — 21.12.2026 | **⚠️ Évaluation II – Théorique** | Révision du code |
 | **Vacances** — du 24.12.2026 au 10.01.2027 | Vacances | Vacances |
 | **SEM 08** — 11.01.2027 | Révision du code | **⚠️ Évaluation II – Pratique** |
