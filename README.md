@@ -42,6 +42,10 @@ Ce cours présente les concepts essentiels des systèmes distribués et leur mis
       <!-- - [Solution](laboratoires/projet-foodtruck/etape-04-lier-deux-ressources-pizzas-et-ingredients/modelisation/solution.md) -->
   - [Étape 05 – Deux microservices indépendants](laboratoires/projet-foodtruck/etape-05-deux-micro-services-independants/README.md)
 
+## Laboratoires
+
+- [Exercice 1 — Méthodes et codes HTTP](https://github.com/CPNV-KMI-I321/I321-Exercices/blob/main/exercices/exercice-1.md)
+
 ## Ressources et Suivi
 
 - [Roadmap du module](roadmap.md)
